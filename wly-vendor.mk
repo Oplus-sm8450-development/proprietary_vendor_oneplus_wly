@@ -1512,9 +1512,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/wly/proprietary/vendor/lib64/vendor.qti.hardware.display.config-V2-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.display.config-V2-ndk_platform.so
 
 PRODUCT_PACKAGES += \
-    oplus-support-wrapper \
-    com.oplus.camera.unit.sdk.adapter \
-    com.oplus.camera.unit.sdk \
     manifest_oplus_cameraextension_aidl \
     manifest_oplus_cammidasservice_aidl \
     manifest_oplus_fingerprint \
