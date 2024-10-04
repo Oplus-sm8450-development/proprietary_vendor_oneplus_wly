@@ -388,7 +388,9 @@
     "com.tencent.mm": {
         "previewSizeForAPI1Width": 1920,
         "previewSizeForAPI1Height": 1080,
-        "app_enable_rio": true
+        "app_enable_rio": true,
+        "scan_zoom_value": 1.26,
+        "scan_activity_name": "com.tencent.mm.plugin.scanner.ui.BaseScanUI"
     },
     "com.tencent.zebra": {
         "previewSizeForAPI1Width": 1920,

@@ -1949,6 +1949,13 @@
 },
 
 {
+    "VendorTag": "com.oplus.aps.sensor16m.crop12m.20846",
+    "Type": "Int32",
+    "Count": "1",
+    "Value": "1"
+},
+
+{
   "VendorTag": "com.aps.params.supereis.cropvalue",
   "Type": "Float",
   "Count": "1",
