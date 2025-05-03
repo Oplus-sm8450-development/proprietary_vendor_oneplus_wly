@@ -1158,7 +1158,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/wly/proprietary/odm/lib64/libsnpeml.so:$(TARGET_COPY_OUT_ODM)/lib64/libsnpeml.so \
     vendor/oneplus/wly/proprietary/odm/lib64/libstblur_api.so:$(TARGET_COPY_OUT_ODM)/lib64/libstblur_api.so \
     vendor/oneplus/wly/proprietary/odm/lib64/libstblur_capture_api.so:$(TARGET_COPY_OUT_ODM)/lib64/libstblur_capture_api.so \
-    vendor/oneplus/wly/proprietary/odm/lib64/libstdc++.so:$(TARGET_COPY_OUT_ODM)/lib64/libstdc++.so \
     vendor/oneplus/wly/proprietary/odm/lib64/libstface_fd_api.so:$(TARGET_COPY_OUT_ODM)/lib64/libstface_fd_api.so \
     vendor/oneplus/wly/proprietary/odm/lib64/libstfaceunlockocl.so:$(TARGET_COPY_OUT_ODM)/lib64/libstfaceunlockocl.so \
     vendor/oneplus/wly/proprietary/odm/lib64/libstfd_mobile_api.so:$(TARGET_COPY_OUT_ODM)/lib64/libstfd_mobile_api.so \
