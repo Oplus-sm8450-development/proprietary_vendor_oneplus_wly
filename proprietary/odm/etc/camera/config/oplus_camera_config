@@ -1118,7 +1118,7 @@
   "VendorTag": "com.oplus.feature.wide.angle.open.default",
   "Type": "Byte",
   "Count": "1",
-  "Value": "0"
+  "Value": "1"
 },
 
 {
@@ -1216,7 +1216,7 @@
   "VendorTag": "com.oplus.video.focus.track.30fps.only",
   "Type": "Byte",
   "Count": "1",
-  "Value": "1"
+  "Value": "0"
 },
 
 {
@@ -1307,7 +1307,7 @@
   "VendorTag": "com.oplus.high.fps.video.preview.process.by.aps",
   "Type": "Byte",
   "Count": "1",
-  "Value": "0"
+  "Value": "1"
 },
 
 {
